@@ -1,1 +1,1 @@
-# Programaci-n-Lineal
+# Programación-Lineal
